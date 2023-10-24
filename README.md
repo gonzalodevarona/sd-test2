@@ -22,3 +22,9 @@ Cada ejercicio debe de ser desplegado en un namespace que contenga el nombre del
 
 
 Saludos y que la suerte los acompañe.
+
+
+## How to run?
+
+1. docker build -t gonzalodevarona/simple
+2. kubectl aply -f deploy.yml
