@@ -27,4 +27,4 @@ Saludos y que la suerte los acompañe.
 ## How to run?
 
 1. docker build -t gonzalodevarona/simple
-2. kubectl aply -f deploy.yml
+2. kubectl apply -f deploy.yml
